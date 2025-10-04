@@ -1,0 +1,24 @@
+{
+  "name": "focustree-nft-transfer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CLI to change(transfer) the owner of a FocusTree NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.0",
+  "devDependencies": {
+    "@types/node": "^24.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "fs": "0.0.1-security",
+    "starknet": "7.6.4"
+  }
+}
