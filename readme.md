@@ -23,4 +23,4 @@ The FocusTree NFT contract address is:
 ```
 
 # Run the transfer script
-pnpm ts-node transfer-ft.ts
+pnpm ts-node ftTransfer.ts
