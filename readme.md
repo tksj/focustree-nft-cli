@@ -1,7 +1,3 @@
-This is a tool for transferring FocusTree NFTs.
-By creating a .env file, entering the following information, and running the script, you can transfer any NFT.
-Note: Token transfers are not supported.
-
 # .env file
 
 ```
